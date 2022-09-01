@@ -6,19 +6,21 @@ body {
     font-weight: bold;
     color: white;
     text-align: center;
+    font-size: 20px;
 }
 
 h1 {
     margin-top: 10px;
     color: goldenrod;
+    font-size: 50px;
 }
 
 span {
-    font-size: 17px;
+    font-size: 30px;
 }
 
 #shane-boy{
-    font-size: 11px;
+    font-size: 20px;
     color: white;
 }
 
@@ -27,7 +29,7 @@ span {
 }
 #updateMsg{
     color: blue;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 button {
@@ -44,17 +46,19 @@ button {
 }
 .help-page > a {
     font-family: 'Noto Sans Sinhala', sans-serif; 
-    font-size: 13px;
+    font-size: 20px;
     text-decoration: none;  
 }
 #game-over-link {
     text-decoration: none;
     font-weight: bold;
     color: #016f32; 
+    font-size: 20px;
 }
 #game-over-link-eng {
     text-decoration: none;
     font-weight: bold;
     color: #016f32; 
+    font-size: 20px;
 }
 /* font-family: 'Noto Sans Sinhala', sans-serif; */

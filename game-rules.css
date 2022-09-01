@@ -5,27 +5,28 @@ body {
     background-size: cover;
     color: white;
     text-align: center;
-    line-height: 18px;
-    font-size: .95em;
+    line-height: 25px;
+    font-size: 20px;
 }
 
 h1 {
     margin-top: 10px;
     color: goldenrod;
+    font-size: 50px;
 }
 
 span {
-    font-size: 17px;
+    font-size: 30px;
 }
 
 #shane-boy{
-    font-size: 11px;
+    font-size: 20px;
     color: white;
 }
 
 .help-page > a {
     font-family: 'Noto Sans Sinhala', sans-serif; 
-    font-size: 13px;
+    font-size: 30px;
     text-decoration: none;  
 }
 /* font-family: 'Noto Sans Sinhala', sans-serif; */

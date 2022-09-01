@@ -1,6 +1,6 @@
 
 const player = "You"
-let chips = 20
+let chips = 100
 const winAndLosePoints = 10
 let cards = []
 let sum = 0
@@ -102,7 +102,7 @@ function gameOver () {
                                         <button><a id="game-over-link-eng" href="index.html">PLAY AGAIN<a/></button>
                                         </div>
                                         `
-    }else if (chips >= 20) {
+    }else if (chips >= 150) {
     document.body.innerHTML = ` <div><br><br><br><br>
                                         <h1>🙌 🙌 🙌 🙌 🙌 YOU WON THE GAME 
                                         😎 😎 😎 😎 😎
